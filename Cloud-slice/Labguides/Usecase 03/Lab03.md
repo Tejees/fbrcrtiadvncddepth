@@ -455,11 +455,11 @@ In this lab, Fabrikam extends its real-time intelligence platform to capture and
 
 1.  Open  PowerBI desktop from the desktop screen.
 
-    ![](./media/kg1.png)
+     ![](./media/kg1.png)
 
 1. In the PowerBi desktop window click on **Sign in**
 
-   ![](./media/us3p1.png)
+    ![](./media/us3p1.png)
 
 1. Once the "Enter your email address" dialog appears, copy the Username and paste it into the Email field of the dialog and select Continue.
 
@@ -469,17 +469,17 @@ In this lab, Fabrikam extends its real-time intelligence platform to capture and
 
 1. On the Sign into Microsoft Azure tab, you will see the login screen,enter the following Email/ Username and then click on **Next**.
 
-   ![](./media/us3p3.png)
+    ![](./media/us3p3.png)
 
 1. Now enter the following Temporary Access Pass and click on Sign in.
 
    **Temporary Access Pass**: <inject key="AzureAdUserPassword"></inject>
 
-   ![](./media/us3p4.png)
+    ![](./media/us3p6.png)
 
 1. Stay **Signed** in to all your apps dialog opens. Select **Yes**.
 
-   ![](./media/us3p5.png)
+    ![](./media/us3p5.png)
 
 1. Account added to this Device Dialog opens. Select **Done**.
 
@@ -601,6 +601,7 @@ In this lab, Fabrikam extends its real-time intelligence platform to capture and
 This lab builds upon Fabrikam’s real-time operational intelligence foundation by adding customer clickstream analytics to the solution. Using Microsoft Fabric, real-time user interactions from the e-commerce platform are streamed, analyzed, and correlated with product data to reveal demand patterns and revenue opportunities as they emerge.
 Participants implement end-to-end streaming ingestion, perform advanced KQL analytics, automate daily updates, and create interactive Power BI reports that highlight top products, traffic sources, and engagement trends. The lab concludes by enabling AI-powered data exploration, allowing business users to ask natural language questions against live data.
 Together, these capabilities help Fabrikam move from reactive reporting to real-time, customer-driven decision-making, ensuring faster responses to market demand and sustained competitive advantage.
+
 
 
 
