@@ -138,13 +138,13 @@ Feel free to **start, restart, or stop** (2) your virtual machine as needed from
 
 1. On the Sign in to Microsoft Azure tab you will see the login screen, in that enter the following email/username, and click on **Next (2)**.
 
-   - **Email/Username: (1)**
+   - **Email/Username: (1)** <inject key="AzureAdUserEmail"></inject>
 
        ![](./media/gs7.png)
 
 1. Now enter the following Temporary Access Pass and click on **Sign in (2)**.
 
-   - **Temporary Access Pass: (1)**
+   - **Temporary Access Pass: (1)** <inject key="AzureAdUserPassword"></inject>
 
         ![](./media/gs8.png)
 
