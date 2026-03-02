@@ -174,7 +174,7 @@ For convenience, you can open the lab guide in a separate window by selecting th
 
 1. If a **Welcome to Microsoft Azure** popup window appears, select **Maybe Later** to skip the tour.
 
-1. If you encounter any issue related to Fabric Capacity while performing as shown in the image below, kindly reach out to us using the support contact provided below.
+1. If you encounter any issue related to Fabric Capacity while performing the lab as shown in the image below, kindly reach out to us using the support contact provided below.
 
     ![](./media/fabcap1.png)
 
