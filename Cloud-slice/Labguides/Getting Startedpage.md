@@ -10,11 +10,11 @@ By the end of this lab, participants will be able to:
 
 **Foundation & Setup**
 
- - Create and configure a Microsoft Fabric workspace for Real-Time Intelligence.
+  - Create and configure a Microsoft Fabric workspace for Real-Time Intelligence.
 
- - Set up an Eventhouse and KQL database for streaming analytics.
+  - Set up an Eventhouse and KQL database for streaming analytics.
 
- - Understand core components such as eventstreams, dashboards, and Real-Time hubs.
+  - Understand core components such as eventstreams, dashboards, and Real-Time hubs.
 
 **Data Ingestion & Streaming**
 
