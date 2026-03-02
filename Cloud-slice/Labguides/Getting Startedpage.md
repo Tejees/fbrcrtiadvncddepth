@@ -134,7 +134,7 @@ For convenience, you can open the lab guide in a separate window by selecting th
  
 - Users can Stop/Start the VM from the "Resources" tab that is available from the Guide section as shown below.**Start**(1) and **Stop**(2)
 
-  ![](./media/gpxx.png)
+  ![](./media/managevm.png)
 
 ## Let's Get Started with Azure Portal
 
