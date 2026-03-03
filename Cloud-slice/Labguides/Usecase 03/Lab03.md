@@ -1,6 +1,7 @@
 # Lab 3: Real-Time Product Clickstream Monitoring and Insights using Microsoft Fabric
 
 **Introduction**
+
 In this lab, you will extend Microsoft Fabric Real-Time Intelligence (RTI) to capture and analyze live product clickstream data from Fabrikam’s e-commerce platform. You will ingest streaming customer interaction events, process them using KQL queries, and generate insights that reveal product demand patterns as they occur.
 
 By the end of this lab, you will be able to monitor real-time customer behavior, identify high-performing products, evaluate demand surges, and transform streaming engagement data into actionable business intelligence.
@@ -624,6 +625,7 @@ In this lab, you will:
 This lab builds upon Fabrikam’s real-time operational intelligence foundation by adding customer clickstream analytics to the solution. Using Microsoft Fabric, real-time user interactions from the e-commerce platform are streamed, analyzed, and correlated with product data to reveal demand patterns and revenue opportunities as they emerge.
 Participants implement end-to-end streaming ingestion, perform advanced KQL analytics, automate daily updates, and create interactive Power BI reports that highlight top products, traffic sources, and engagement trends. The lab concludes by enabling AI-powered data exploration, allowing business users to ask natural language questions against live data.
 Together, these capabilities help Fabrikam move from reactive reporting to real-time, customer-driven decision-making, ensuring faster responses to market demand and sustained competitive advantage.
+
 
 
 
