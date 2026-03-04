@@ -49,7 +49,7 @@ With demand surging and disruptions unfolding minute-by-minute, Fabrikam faces t
     |----|----|
     |Subscription|	Select your Azure OpenAI subscription (1)|
     |Resource group|	Select **FabricRG** (2) |
-    |Storage account name	|**storage<inject key="DeploymentID" enableCopy="false" />** (3)|
+    |Storage account name	|```storage<inject key="DeploymentID" enableCopy="false" />``` (3)|
     |Region	|**<inject key="Region" enableCopy="false" />** (4)|
     |Performance	|Standard: Recommended for most scenarios (general-purpose v2 account)(5)|
     |Redundancy	|Locally-redundant storage (LRS (6)|
@@ -97,8 +97,8 @@ With demand surging and disruptions unfolding minute-by-minute, Fabrikam faces t
     | Setting                | Value / Action |
     |------------------------|----------------|
     | Subscription           | Leave the subscription group as default (1) |
-    | Resource group         | Select **FabricRG** (2) |
-    | Database name          | **sqldatabase<inject key="DeploymentID" enableCopy="false" />** (3) |
+    | Resource group         | Select ```FabricRG``` (2) |
+    | Database name          | ```sqldatabase<inject key="DeploymentID" enableCopy="false" />``` (3) |
   
      ![](./media/tg3.png)
   
