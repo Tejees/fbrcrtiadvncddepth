@@ -48,10 +48,6 @@ By the end of this lab, participants will be able to:
   
   - Apply best practices for building scalable real-time intelligence solutions in Fabric.
 
-## Architecture
-
-In this lab, you will use Microsoft Fabric Real-Time Intelligence to ingest, process, analyze, and visualize streaming data through an end-to-end analytics workflow. The architecture begins by creating a Fabric workspace, Eventhouse, and KQL database to store and query real-time events. Data is ingested through eventstreams, where it can be filtered, transformed, and routed into the KQL database for live analysis. You will use Kusto Query Language (KQL) to explore streaming datasets and generate insights, then build interactive dashboards to monitor events in real time. Throughout the lab, you will observe how data flows from ingestion to visualization, enabling operational monitoring, near-real-time analytics, and data-driven decision-making within a unified Fabric environment.
-
 ## Explanation of Components
 
 The architecture for this lab involves the following key components:
