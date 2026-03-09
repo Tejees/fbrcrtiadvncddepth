@@ -1,4 +1,4 @@
-## Lab 01-Build a Real-Time Parcel Delivery Monitoring Solution with Microsoft Fabric
+# Lab 01-Build a Real-Time Parcel Delivery Monitoring Solution with Microsoft Fabric
 
 **Introduction**
 
